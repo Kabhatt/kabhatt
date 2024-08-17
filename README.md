@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kashish</h1>
-<h3 align="center">Driven by curiosity and a commitment to innovation, I specialize in transforming complex datasets into actionable insights. My work bridges the gap between biological research and technological advancement, leveraging cutting-edge algorithms and software solutions to solve real-world problems. Here, you'll find projects that reflect my passion for unraveling data's potential, from genomic analysis to machine learning applications.</h3>
+<h3 align="center">Passionate about turning complex data into actionable insights, I bridge the gap between biology and technology using innovative algorithms and solutions. Explore projects that showcase my work in genomic analysis, machine learning, and beyond.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kabhatt" alt="kabhatt" /></a> </p>
 
